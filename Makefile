@@ -5,6 +5,9 @@ build: components maple-form.css
 components: component.json
 	@component install --dev
 
+styl:
+	styl -w < form.styl > form.css
+
 clean:
 	rm -fr build components template.js
 
