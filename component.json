@@ -1,0 +1,13 @@
+{
+  "name": "maple-form",
+  "repo": "leafs/maple-form",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "maple-form.css"
+  ]
+}
