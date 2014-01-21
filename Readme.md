@@ -1,5 +1,4 @@
-
-# maple-form
+# css-form
 
   
 
@@ -7,7 +6,7 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install leafs/maple-form
+    $ component install bredele/css-form
 
 ## API
 
